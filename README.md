@@ -48,6 +48,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 
 <a name="research-advice" />
 #### Advice & tips
+
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * [How to Have a Bad Career in Research/Academia](https://people.eecs.berkeley.edu/~pattrsn/talks/research.pdf)
 * [Software Is Not Science](http://matt-welsh.blogspot.my/2011/11/software-is-not-science.html)
@@ -64,6 +65,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 
 <a name="research-publishing-presenting" />
 #### Publishing and presenting
+
 * [How to Write a Paper](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf)
 * [Poster Perfect](http://www.the-scientist.com/?articles.view/articleNo/31071/title/Poster-Perfect/)
 * [The Elements of Style](http://www.bartleby.com/141/)
