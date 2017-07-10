@@ -47,6 +47,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 ## Research, and the research career
 
 <a name="research-advice" />
+
 #### Advice & tips
 
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
@@ -76,6 +77,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 
 <a name="research-writing-tools" />
 #### Writing tools
+
 * [The Blue Book of Grammar](http://www.grammarbook.com/)
 * [ShareLaTeX](https://www.sharelatex.com/)
 * [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures)
