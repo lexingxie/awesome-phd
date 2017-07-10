@@ -21,6 +21,7 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 ## Pursuing a PhD / grad school
 
 * [The Illustrated Guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
+* [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 * [Why Am I in Graduate School?](http://cra-ccc.org/lifeofacsgs/why-am-i-in-graduate-school)
 * [Do You Need a PhD?](http://matt-welsh.blogspot.my/2012/03/do-you-need-phd.html)
 * [So, You Want to Go to Grad School?](http://matt-welsh.blogspot.my/2010/09/so-you-want-to-go-to-grad-school.html)
@@ -35,6 +36,12 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [Deciding to Apply](http://jxyzabc.blogspot.my/2008/08/cs-grad-school-part-1-deciding-to-apply.html)
 * [Some Notes on Picking Grad Schools/Advisors](http://jxyzabc.blogspot.my/2009/02/some-notes-on-picking-grad.html)
 * [FAQ: Applying to Graduate School for Computer Science](http://jxyzabc.blogspot.my/2012/10/faq-applying-to-graduate-school-for.html)
+* [Realistic Expectations Keep You on the Path to a PhD](https://www.timeshighereducation.com/news/realistic-expectations-keep-you-on-the-path-to-a-phd/2015739.article)
+* [Some Modest Advice for Graduate Students](http://stearnslab.yale.edu/some-modest-advice-graduate-students)
+* [Advice for New Ph.D. Students](http://pgbovine.net/early-stage-PhD-advice.htm)
+* [A Collection of Advices for Authoring a PhD or Academic Book](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction)
+* [I Graduated From Harvard and MIT — Here's the Smartest Thing I Did on My Applications](http://www.businessinsider.com/make-college-application-stand-out-2016-12?IR=T&r=US&IR=T)
+* [So long, and thanks for the Ph.D.!](http://www.cs.unc.edu/~azuma/hitch4.html)
 
 <a name="research" />
 ## Research, and the research career
@@ -50,6 +57,10 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
 * [Advice on Reading Academic Papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
+* [14 Essential PhD Questions Answered](https://www.timeshighereducation.com/news/14-essential-phd-questions-answered/2006473.article?page=0%2C5)
+* [Writing Tips for Ph.D. Students](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
+* [How to Write a PhD Abstract: An Interactive Guide to the Purpose, Parts & Process](https://crq.adobeconnect.com/abstract/)
+* [How to Prepare a Manuscript for International Journals](https://www.elsevier.com/connect/six-things-to-do-before-writing-your-manuscript)
 
 <a name="research-publishing-presenting" />
 #### Publishing and presenting
@@ -58,6 +69,8 @@ If you want to contribute to this list (PLEASE DO), read the [contribution guide
 * [The Elements of Style](http://www.bartleby.com/141/)
 * [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
 * [Coping With Issues of Sloppiness and Carelessness in Writing](http://asegrp.blogspot.my/2011/06/coping-with-issues-of-sloppiness-and.html)
+* [Steps to Write a Survey Paper](http://researchpedia.info/steps-to-write-a-survey-paper/)
+* [The Literature Review: A Few Tips on Conducting It](http://www.writing.utoronto.ca/advice/specific-types-of-writing/literature-review)
 
 <a name="research-writing-tools" />
 #### Writing tools
